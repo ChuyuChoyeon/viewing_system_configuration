@@ -7,6 +7,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+wmi = "^1.5.1"
+gputil = "^1.4.0"
+screeninfo = "^0.8.1"
+sv-ttk = "^2.6.0"
 
 
 [build-system]
